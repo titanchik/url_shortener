@@ -1,0 +1,8 @@
+fastapi
+unicorn
+sqlalchemy
+psycopg2-binary
+redis
+python-dotenv
+pytest
+http
